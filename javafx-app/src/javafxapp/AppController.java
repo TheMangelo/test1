@@ -10,6 +10,6 @@ public class AppController {
 
     @FXML
     void handleClickMeButtonAction() {
-        clickMeButton.setText("Thanks!");
+        clickMeButton.setText("Thank you very much!");
     }
 }

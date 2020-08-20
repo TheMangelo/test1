@@ -4,5 +4,5 @@
 <?import javafx.scene.control.Button?>
 
 <Pane xmlns:fx="http://javafx.com/fxml/1" fx:controller="javafxapp.AppController">
-    <Button fx:id="clickMeButton" text="Click me!" onAction="#handleClickMeButtonAction"/>
+    <Button fx:id="clickMeButton" text="Click me??!" onAction="#handleClickMeButtonAction"/>
 </Pane>
